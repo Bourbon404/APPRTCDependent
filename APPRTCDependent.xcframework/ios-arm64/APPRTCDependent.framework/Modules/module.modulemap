@@ -1,6 +1,0 @@
-framework module APPRTCDependent {
-  umbrella header "APPRTCDependent.h"
-
-  export *
-  module * { export * }
-}
